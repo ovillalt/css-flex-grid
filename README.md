@@ -1,2 +1,2 @@
-# css-flex-grid
+# CSS - FLEX - GRID
 Practicas de CSS - FLEX - GRID
